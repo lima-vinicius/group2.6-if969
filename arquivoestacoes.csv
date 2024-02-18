@@ -1,0 +1,182 @@
+Wolfhathausen,Icking,1
+Icking,Ebenhause-Schäftlarm,1
+Ebenhause-Schäftlarm,Höhen-Schäftlarm,1
+Höhen-Schäftlarm,Baierbrunn,1
+Baierbrunn,Buchehainn,1
+Buchehainn,Höllhigeskreuf,1
+Höllhigeskreuf,Pullach,1
+Pullach,Großhessenlohe,1
+Großhessenlohe,Solln,1
+Solln,Siemeswerke,1
+Siemeswerke,Mittersendling,1.6
+Mittersendling,Harras,2
+Solln,Deisenhofen,14
+Deisenhofen,Sauerlach,2
+Sauerlach,Otterfing,1
+Otterfing,Holzkirchen,1
+Holzkirchen,Kreuzstraße,8
+Kreuzstraße,Großhelfendorf,1
+Großhelfendorf,Peiß,1
+Peiß,Aying,1
+Aying,Dürrnhaar,1
+Dürrnhaar,Höhenkirchen,1
+Höhenkirchen,Wächterhof,1
+Wächterhof,Hohennbrunn,1
+Hohennbrunn,Ottobrunn,1
+Ottobrunn,Neubiberg,1
+Neubiberg,Neuperlach Süd,1
+Deisenhofen,Furth,1
+Furth,Taufkirchen,1
+Taufkirchen,Unterhaching,1
+Unterhaching,Fasanapark,1
+Fasanapark,Fasangarten,1
+Neuperlach Süd,Perlach,2.5
+Perlach,Giesing,3.6
+Fasangarten,Giesing,3
+Giesing,St-Martin-Straße,1
+St-Martin-Straße,Ostbahnhof,2.5
+Neuperlach Süd,Therese-Giehse-Alle,0.8
+Therese-Giehse-Alle,Neuperlach Zentrum,0.8
+Neuperlach Zentrum,Quidderstraße,0.8
+Quidderstraße,Michaelibad,0.8
+Michaelibad,Insbrücker Ring,1.5
+Insbrücker Ring,Ostbahnhof,2.5
+Insbrücker Ring,Karl-Preis-Platz,1.5
+Karl-Preis-Platz,Giesing,1
+Giesing,Unterbergstraße,1.5
+Unterbergstraße,Silberhornstraße,1.5
+Silberhornstraße,Kolumbusplatz,2.5
+Kolumbusplatz,Fraunhofestraße,2
+Fraunhofestraße,Sedling Tor,1.5
+Sedling Tor,Hauptbahnhof,3.5
+Hauptbahnhof,Ostbahnhof,23
+Mangfallplatz,St-Quirin-Platz,1.5
+St-Quirin-Platz,Wettersteinplatz,1.5
+Wettersteinplatz,Candidplatz,2
+Candidplatz,Kolumbusplatz,2
+Fürstenried West,Basler Straße,1.5
+Basler Straße,Forstenrieder Alle,1.5
+Forstenrieder Alle,Aidenbach Sraße,1.5
+Aidenbach Sraße,Obersendling,1.5
+Obersendling,Thalkirchen,2.5
+Thalkirchen,Brüdermuhlstraße,1
+Brüdermuhlstraße,implerstraße,1
+implerstraße,Poccistraße,1
+Poccistraße,Goetheplatz,1
+Goetheplatz,Sedling Tor,1.5
+Sedling Tor,Marienplatz,4
+Klinikum Großhardern,Großhardern,1.2
+Großhardern,Haderner Stern,1.2
+Haderner Stern,Holzapfelkreuth,1.2
+Holzapfelkreuth,Westpark,1.2
+Westpark,Partnachplatz,1.2
+Partnachplatz,Harras,1.2
+Harras,implerstraße,3.3
+Harras,Donnersbergerbrücke,5
+Donnersbergerbrücke,Hackerbrücke,1.5
+Hackerbrücke,Hauptbahnhof,3
+Hauptbahnhof,Karlplatz,2.5
+Karlplatz,Marienplatz,1
+Marienplatz,Isator,1.5
+Isator,Rosenheimer Platz,1.3
+Rosenheimer Platz,Ostbahnhof,2.5
+Pasing,Laim,2
+Laim,Hirschgarten,1.5
+Hirschgarten,Donnersbergerbrücke,1.6
+Icking,Wolfhathausen,1
+Ebenhause-Schäftlarm,Icking,1
+Höhen-Schäftlarm,Ebenhause-Schäftlarm,1
+Baierbrunn,Höhen-Schäftlarm,1
+Buchehainn,Baierbrunn,1
+Höllhigeskreuf,Buchehainn,1
+Pullach,Höllhigeskreuf,1
+Großhessenlohe,Pullach,1
+Solln,Großhessenlohe,1
+Siemeswerke,Solln,1
+Mittersendling,Siemeswerke,1.6
+Harras,Mittersendling,2
+Deisenhof,Solln,14
+Sauerlach,Deisenhof,2
+Otterfing,Sauerlach,1
+Holzkirchen,Otterfing,1
+Kreuzstraße,Holzkirchen,8
+Großhelfendorf,Kreuzstraße,1
+Peiß,Großhelfendorf,1
+Aying,Peiß,1
+Dürrnhaar,Aying,1
+Höhenkirchen,Dürrnhaar,1
+Wächterhof,Höhenkirchen,1
+Hohennbrunn,Wächterhof,1
+Ottobrunn,Hohennbrunn,1
+Neubiberg,Ottobrunn,1
+Neuperlach Süd,Neubiberg,1
+Furth,Deisenhof,1
+Taufkirchen,Furth,1
+Unterhaching,Taufkirchen,1
+Fasanapark,Unterhaching,1
+Fasangarten,Fasanapark,1
+Perlach,Neuperlach Süd,2.5
+Giesing,Perlach,3.6
+Giesing,Fasangarten,3
+St-Martin-Straße,Giesing,1
+Ostbahnhof,St-Martin-Straße,2.5
+Therese-Giehse-Alle,Neuperlach Süd,0.8
+Neuperlach Zentrum,Therese-Giehse-Alle,0.8
+Quidderstraße,Neuperlach Zentrum,0.8
+Michaelibad,Quidderstraße,0.8
+Insbrücker Ring,Michaelibad,1.5
+Ostbahnhof,Insbrücker Ring,2.5
+Karl-Preis-Platz,Insbrücker Ring,1.5
+Giesing,Karl-Preis-Platz,1
+Unterbergstraße,Giesing,1.5
+Silberhornstraße,Unterbergstraße,1.5
+Kolumbusplatz,Silberhornstraße,2.5
+Fraunhofestraße,Kolumbusplatz,2
+Sedling Tor,Fraunhofestraße,1.5
+Hauptbahnhof,Sedling Tor,3.5
+Ostbahnhof,Hauptbahnhof,23
+St-Quirin-Platz,Mangfallplatz,1.5
+Wettersteinplatz,St-Quirin-Platz,1.5
+Candidplatz,Wettersteinplatz,2
+Kolumbusplatz,Candidplatz,2
+Basler Straße,Fürstenried West,1.5
+Forstenrieder Alle,Basler Straße,1.5
+Aidenbach Sraße,Forstenrieder Alle,1.5
+Obersendling,Aidenbach Sraße,1.5
+Thalkirchen,Obersendling,2.5
+Brüdermuhlstraße,Thalkirchen,1
+implerstraße,Brüdermuhlstraße,1
+Poccistraße,implerstraße,1
+Goetheplatz,Poccistraße,1
+Sedling Tor,Goetheplatz,1.5
+Marienplatz,Sedling Tor,4
+Großhardern,Klinikum Großhardern,1.2
+Haderner Stern,Großhardern,1.2
+Holzapfelkreuth,Haderner Stern,1.2
+Westpark,Holzapfelkreuth,1.2
+Partnachplatz,Westpark,1.2
+Harras,Partnachplatz,1.2
+implerstraße,Harras,3.3
+Donnersbergerbrücke,Harras,5
+Hackerbrücke,Donnersbergerbrücke,1.5
+Hauptbahnhof,Hackerbrücke,3
+Karlplatz,Hauptbahnhof,2.5
+Marienplatz,Karlplatz,1
+Isator,Marienplatz,1.5
+Rosenheimer Platz,Isator,1.3
+Ostbahnhof,Rosenheimer Platz,2.5
+Laim,Pasing,2
+Hirschgarten,Laim,1.5
+Donnersbergerbrücke,Hirschgarten,1.6
+Laimer Platz,Friedenheimer Straße,1.3
+Friedenheimer Straße,Westendstraße,1.3
+Westendstraße,Heimeranplatz,2
+Heimeranplatz,Schwanthalerhöhe,1.3
+Schwanthalerhöhe,Theresienwiese,2.3
+Theresienwiese,Hauptbahnhof,2
+Friedenheimer Straße,Laimer Platz,1.3
+Westendstraße,Friedenheimer Straße,1.3
+Heimeranplatz,Westendstraße,2
+Schwanthalerhöhe,Heimeranplatz,1.3
+Theresienwiese,Schwanthalerhöhe,2.3
+Hauptbahnhof,Theresienwiese,2
